@@ -31,6 +31,4 @@
 </div>
 
 <br>
-<div>
-  
-</div>
+![Snake animation](https://github.com/Darlan-Monteiro/Darlan-Monteiro/blob/output/github-contribution-grid-snake.svg)

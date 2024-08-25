@@ -7,9 +7,11 @@
 
 <br>
 
-<div>
+<div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/Darlan-Monteiro">
     <img width="480em" src="https://github-readme-stats.vercel.app/api?username=Darlan-Monteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Darlan's GitHub stats"/>
+  </a>
+  <a href="https://github.com/Darlan-Monteiro">
     <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlan-Monteiro&layout=compact&langs_count=16&theme=dark" alt="Top languages"/>
   </a>
 </div>

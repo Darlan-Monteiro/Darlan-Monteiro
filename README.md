@@ -8,7 +8,7 @@
 <br>
 <div>
   <a href="https://github.com/Darlan-Monteiro">
-    <img width="580em" src="https://github-readme-stats.vercel.app/api?username=Darlan-Monteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img width="480em" src="https://github-readme-stats.vercel.app/api?username=Darlan-Monteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlan-Monteiro&layout-compact&langs_count=16&theme=dark"/>
 </div>
 

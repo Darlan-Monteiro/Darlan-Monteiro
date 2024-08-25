@@ -29,6 +29,3 @@
   <a href="https://www.instagram.com/codedreams_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="wa.me/+5522992297791" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
-
-<br>
-![snake gif](https://github.com/Darlan-Monteiro/Darlan-Monteiro/blob/output/github-contribution-grid-snake.svg)

@@ -31,4 +31,4 @@
 </div>
 
 <br>
-![Snake animation](https://github.com/Darlan-Monteiro/Darlan-Monteiro/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Darlan-Monteiro/Darlan-Monteiro/blob/output/github-contribution-grid-snake.svg)

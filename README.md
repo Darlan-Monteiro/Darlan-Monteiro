@@ -1,7 +1,7 @@
 ## Olá! Eu sou Darlan Monteiro 👋
 
 - 🔭 Atualmente trabalho com Análise de dados.
-- 🌱 Estou estudando Python e SQL para aprimorar minhas habilidades.
+- 🌱 Estou estudando com o objetivo de me tornar Engenheiro de Dados.
 - 💻 Criei o que chamo de iniciativa Code Dreams, onde tenho uma comunidade no X (ex-Twitter) e Instagram para compartilhar conhecimento na área Tech.
 - 📩 Entre em contato pelo e-mail: darlanmonteirott@gmail.com
 - 😊 Pronome: Ele/Dele

@@ -1,7 +1,7 @@
 ## Olá! Eu sou Darlan Monteiro 👋
 
 - 🔭 Atualmente trabalho com Análise de dados.
-- 🌱 Estou estudando com o objetivo de me tornar Engenheiro de Dados.
+- 🌱 Estou estudando com o objetivo de me tornar Cientista de Dados.
 
 - 📩 Entre em contato pelo e-mail: darlanmonteirott@gmail.com
 - 😊 Pronome: Ele/Dele

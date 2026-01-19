@@ -54,13 +54,16 @@ Sou estudante de **Sistemas de Informação** apaixonado por encontrar padrões 
 
 <br>
 
-### 📊 GitHub Stats
+### 🏆 Minhas Conquistas
 
 <div align="center">
-  <a href="https://github.com/Darlan-Monteiro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Darlan-Monteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlan-Monteiro&layout=compact&theme=dracula"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Darlan-Monteiro&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darlan-Monteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Stats"/>
 </div>
 
 <br>

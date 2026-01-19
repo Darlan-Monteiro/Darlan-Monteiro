@@ -20,6 +20,12 @@ Sou estudante de **Sistemas de Informação** e apaixonado por transformar dados
 <br>
 
 <div align="center">
+  <a href="https://x.com/codedreams_" target="_blank">
+    <img src="https://img.shields.io/badge/Code%20Dreams-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter Code Dreams">
+  </a>
+  <a href="https://www.notion.so/Mapa-de-Estudos-para-Dados-By-Darlan-1e87da820a82806486b8f6d6e46b60a7?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/Mapa%20de%20Estudos-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank" alt="Notion Mapa de Estudos">
+  </a>
   <a href="https://darlan-monteiro.github.io/Portfolio-POWER-BI/" target="_blank">
     <img src="https://img.shields.io/badge/-Meu%20Portfólio-darkblue?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" alt="Portfólio">
   </a>

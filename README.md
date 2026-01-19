@@ -20,9 +20,6 @@ Sou estudante de **Sistemas de Informação** e apaixonado por transformar dados
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/darlan-santos-01a87b185/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
-  </a>
   <a href="https://darlan-monteiro.github.io/Portfolio-POWER-BI/" target="_blank">
     <img src="https://img.shields.io/badge/-Meu%20Portfólio-darkblue?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" alt="Portfólio">
   </a>

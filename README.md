@@ -2,7 +2,7 @@
   <h2>Olá, eu sou Darlan Monteiro! 👋</h2>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9BF5&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+ETL;Future+Machine+Learning+Engineer;Python+%26+SQL+Developer;Community+Manager+%40CodeDreams" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9BF5&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+AI;Machine+Learning+Enthusiast;Python+%26+SQL+Developer;Community+Manager+%40CodeDreams" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,12 +10,12 @@
 
 ### 🚀 Sobre Mim
 
-Sou estudante de **Sistemas de Informação** e apaixonado por transformar dados brutos em inteligência. Tenho experiência prática construindo pipelines de dados, automações e dashboards estratégicos.
+Sou estudante de **Sistemas de Informação** apaixonado por encontrar padrões em dados e criar soluções inteligentes. Meu foco é unir estatística e programação para resolver problemas complexos.
 
-- 🔭 **Atualmente:** Focado em projetos de Engenharia de Dados e ETL com Python.
-- 🌱 **Estudando:** Algoritmos de Machine Learning e Modelagem Dimensional.
+- 🔭 **Atualmente:** Desenvolvendo projetos de **Ciência de Dados** e **Inteligência Artificial**.
+- 🌱 **Estudando:** Modelagem Preditiva, Deep Learning e Estatística Aplicada.
 - 🤝 **Comunidade:** Fundador da **Code Dreams**, fomentando tecnologia e dados.
-- 💼 **Objetivo:** Atuar com Engenharia de Machine Learning e Big Data.
+- 💼 **Objetivo:** Atuar com **Ciência de Dados**, **IA** e **Machine Learning**.
 
 <br>
 
@@ -27,7 +27,7 @@ Sou estudante de **Sistemas de Informação** e apaixonado por transformar dados
     <img src="https://img.shields.io/badge/Mapa%20de%20Estudos-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank" alt="Notion Mapa de Estudos">
   </a>
   <a href="https://darlan-monteiro.github.io/Portfolio-POWER-BI/" target="_blank">
-    <img src="https://img.shields.io/badge/-Meu%20Portfólio-darkblue?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" alt="Portfólio">
+    <img src="https://img.shields.io/badge/Portfólio%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" target="_blank" alt="Portfólio Power BI">
   </a>
   <a href="mailto:darlanmonteirott@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
@@ -66,5 +66,5 @@ Sou estudante de **Sistemas de Informação** e apaixonado por transformar dados
 <br>
 
 <div align="center">
-  <sub>Construindo o futuro com dados 🚀</sub>
+  <sub>Construindo o futuro com inteligência de dados 🚀</sub>
 </div>

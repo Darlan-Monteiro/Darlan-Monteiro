@@ -52,6 +52,13 @@ Sou estudante de **Sistemas de Informação** apaixonado por dados. Meu foco é 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Darlan-Monteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Darlan-Monteiro&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darlan-Monteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <br>
+  <sub>Construindo o futuro com inteligência de dados 🚀</sub>
 </div>

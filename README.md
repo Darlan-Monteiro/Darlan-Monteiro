@@ -48,13 +48,6 @@ Sou estudante de **Sistemas de Informação** apaixonado por dados. Meu foco é 
 </div>
 
 <br>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darlan-Monteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs" />
-</div>
-
 <br>
 
 <div align="center">

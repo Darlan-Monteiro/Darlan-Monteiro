@@ -10,11 +10,10 @@
 
 ### 🚀 Sobre Mim
 
-Sou estudante de **Sistemas de Informação** apaixonado por dados. Meu foco é unir estatística e programação para resolver problemas reais com Inteligência Artificial.
+Sou estudante de **Sistemas de Informação** e **Analise e Desenvolvimento de Sistemas** apaixonado por dados. Meu foco é unir estatística e programação para resolver problemas reais com Inteligência Artificial.
 
 - 🔭 **Atualmente:** Focado em Ciência de Dados, ETL e Python.
 - 🌱 **Estudando:** Machine Learning, Estatística e Modelagem Preditiva.
-- 🤝 **Comunidade:** Fundador da **Code Dreams**.
 - 💼 **Objetivo:** Atuar como Cientista de Dados ou Eng. de Machine Learning.
 
 <br>

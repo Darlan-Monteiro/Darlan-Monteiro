@@ -10,6 +10,7 @@
 
 ### 🚀 Sobre Mim
 
+
 Sou estudante de **Sistemas de Informação** e **Analise e Desenvolvimento de Sistemas** apaixonado por dados. Meu foco é unir estatística e programação para resolver problemas reais com Inteligência Artificial.
 
 
